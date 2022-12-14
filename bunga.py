@@ -1,6 +1,6 @@
 import turtle
 
-# updated by developer
+# updated by myself
 
 # Create a turtle
 t = turtle.Turtle()
